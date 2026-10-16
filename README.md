@@ -51,8 +51,8 @@ I like products that feel polished and do one thing really well.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xyoluastudios&show_icons=true&hide_border=true&bg_color=0a0d12&title_color=017BFF&icon_color=017BFF&text_color=c9d1d9&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyoluastudios&layout=compact&hide_border=true&bg_color=0a0d12&title_color=017BFF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+<img height="170" align="top" src="https://github-readme-stats.vercel.app/api?username=xyoluastudios&show_icons=true&hide_rank=true&hide_border=true&bg_color=0a0d12&title_color=017BFF&icon_color=017BFF&text_color=c9d1d9&include_all_commits=true&card_width=420&custom_title=GitHub%20Stats&disable_animations=true&cache_seconds=21600" alt="GitHub stats"/>
+<img height="170" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyoluastudios&layout=compact&hide_border=true&bg_color=0a0d12&title_color=017BFF&text_color=c9d1d9&langs_count=8&disable_animations=true&cache_seconds=21600" alt="Most used languages"/>
 
 <br/>
 
