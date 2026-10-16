@@ -51,12 +51,12 @@ I like products that feel polished and do one thing really well.
 
 <div align="center">
 
-<img height="170" align="top" src="https://github-readme-stats.vercel.app/api?username=xyoluastudios&show_icons=true&hide_rank=true&hide_border=true&bg_color=0a0d12&title_color=017BFF&icon_color=017BFF&text_color=c9d1d9&include_all_commits=true&card_width=420&custom_title=GitHub%20Stats&disable_animations=true&cache_seconds=21600" alt="GitHub stats"/>
-<img height="170" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyoluastudios&layout=compact&hide_border=true&bg_color=0a0d12&title_color=017BFF&text_color=c9d1d9&langs_count=8&disable_animations=true&cache_seconds=21600" alt="Most used languages"/>
+<img width="366" align="top" src="https://github-readme-stats.vercel.app/api?username=xyoluastudios&show_icons=true&hide_rank=true&hide_border=true&bg_color=0a0d12&title_color=017BFF&icon_color=017BFF&text_color=c9d1d9&include_all_commits=true&card_width=420&custom_title=GitHub%20Stats&disable_animations=true&cache_seconds=21600" alt="GitHub stats"/>
+<img width="364" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyoluastudios&layout=compact&hide_border=true&bg_color=0a0d12&title_color=017BFF&text_color=c9d1d9&langs_count=8&disable_animations=true&cache_seconds=21600" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xyoluastudios&hide_border=true&background=0a0d12&stroke=017BFF&ring=017BFF&fire=017BFF&currStreakLabel=017BFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xyoluastudios&hide_border=true&background=0a0d12&stroke=017BFF&ring=017BFF&fire=017BFF&currStreakLabel=017BFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&disable_animations=true" alt="streak"/>
 
 </div>
 
